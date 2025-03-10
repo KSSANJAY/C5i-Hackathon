@@ -1,10 +1,15 @@
 # C5i-Hackathon
 Prerequisites
 Before setting up the project, ensure you have the following installed on your system:
+
 •	Git – for cloning the repository.
+
 •	Python (latest version recommended) – for running the scripts.
+
 •	Jupyter Notebook – for executing the .ipynb file.
+
 •	Pip – for managing Python packages.
+
 •	Any additional dependencies listed in the requirements.txt file.
 
 REQUIREMENTS 
