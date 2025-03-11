@@ -1,0 +1,410 @@
+Unique ID,Start Date,End Date,Q1. What is your current age?  (Age),Q2. What is your gender?  (Gender),Q3. Which of the following best describes the area or community in which you live?  (Urban/Rural),Q4.  Please indicate the answer that includes your entire household income in (previous year) before taxes.  (Income),Beer,Flavored/Mixed Beer,Non-Alcoholic Beers,Hard Ciders,Hard Kombucha,Wine,Hard Beverage,Distilled Spirits,Domestic Light Beer,Domestic Regular Beer,Low Calorie Carb Beer,Domestic Craft,Imported Mexican Beer,Other Imported Beer,Non-Alcoholic Beer,Q9. How relevant would you say the shown product is to you based on what you saw and read? (Concept Relevance),Q10. How appealing or unappealing is the shown product  to you? (Concept Appeal),Q11. How different do you think the shown product is from other beers currently available for purchase? (Concept Differentiation),"Q12. Thinking about the shown product, which option describes how believable or unbelievable you feel the description and statements made about it are? (Concept Beleivability)",Q13. How does the price fit with what you’d expect the shown to cost? (Concept_Price),Q14. Which statement below best describes how likely you would be to buy shown product if it were available at your local stores? (Concept_Purchase Intent),"Q15. If the shwon product was available to you, how often would you expect yourself to drink at least one of these products? (Concept_Drinking Frequency)",Q16A. What is the most important thing you LIKE about the shown concept}?     This can include anything you would want kept for sure or aspects that might drive you to buy or try it…       Please type a detailed response in the space below,"Q16B. What is the most important thing you DISLIKE about the shown concept}?    This can include general concerns, annoyances, or any aspects of the product that need fixed for this to be more appealing to you...     Please type a detailed response in the space below.","Q17. We would like to know what effect this new product might have on the other beverages you buy. If it were available, would the shown product…?  (Concept_Replacement Product)",Q18_1 What specific product that you are currently using would the shown product replace?  Please type in ONE specific brand or product per space provided.,Q18_2 What specific product that you are currently using would the shown concept replace?  Please type in ONE specific brand or product per space provided.,Q18_3 What specific product that you are currently using would the shown concept replace?  Please type in ONE specific brand or product per space provided.,Unnamed: 35,time_taken,Predicted_OE_Quality_Flag
+4,11-10-2024 09:40,11-10-2024 09:54,34,2,5,11,1,0,0,1,0,1,1,0,0,1,0,1,0,0,0,5,5,5,4,5,5,9,I don’t like Michelob actually.,I dislike that it’s a Michelob drink.,1,,,,,1163,0
+25,11-10-2024 10:11,11-10-2024 10:30,54,1,5,11,1,1,0,1,0,1,1,1,0,1,0,1,1,1,0,5,5,5,4,5,5,9,I like that is has a smooth crisp taste,there is nothing that I dislike about this beer,2,corona extra,heiniken,miller life,,1163,0
+27,11-10-2024 10:15,11-10-2024 10:33,64,2,5,11,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,I like that this beer is low calorie and carbs.,I don’t see anything that needs to be changed.,2,Miller Lite,Bud Light,Coca Cola,,1163,0
+33,11-10-2024 11:02,11-10-2024 11:37,44,1,5,11,1,0,0,0,0,1,1,1,0,1,1,1,0,0,0,5,5,5,4,5,5,9,I like everything else about the same thing,Nothing else I can dislike about it,3,Walmart,Amazon,Costco,,1163,1
+38,11-10-2024 15:17,11-10-2024 15:42,55,1,5,11,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,5,5,5,4,5,5,9,I. like the malt,i dislike that it is light,1,,,,,1163,0
+44,11-10-2024 18:47,11-10-2024 19:03,42,1,5,11,1,1,1,0,0,1,1,1,1,1,0,1,0,1,1,5,5,5,4,5,5,9,I love the bottle and how great it looks,There is nothing I dislike,3,Bud Light,Heineken,Samuel Adams,,1163,0
+48,12-10-2024 00:40,12-10-2024 00:54,38,1,5,11,1,0,0,1,0,1,1,1,1,1,0,1,0,1,0,5,5,5,4,5,5,9,EVERYHING,NOTHING,3,NOT SURE,NOT SURE,NOT SURE,,1163,0
+51,12-10-2024 03:38,12-10-2024 03:45,38,1,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,5,5,5,4,5,5,9,Interesting,Interesting,3,Amazon,Walmart,Target,,1163,0
+53,12-10-2024 04:28,12-10-2024 04:44,59,1,5,11,1,0,0,0,0,1,0,1,0,0,0,1,1,0,0,5,5,5,4,5,5,9,Extra light lager and the price,Not a big Michlob fan,1,,,,,1163,0
+60,12-10-2024 08:23,12-10-2024 08:37,59,1,5,11,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,5,5,5,4,5,5,9,The most interesting thing to me is that it’s low-carb and low-calorie. I like Michelob they have a good tasting beer usually so if the taste remains and the carb and calorie count is lower that sounds like a great deal.,The only thing I can find that I dislike is the price. I know that it’s organic but a light beer usually is not a beer beer that comes at a premium price.,2,Miller Lite,Amstel Light,Stella Artois,,1163,0
+63,12-10-2024 08:52,12-10-2024 08:59,64,2,5,11,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,5,5,5,4,5,5,9,Never tried,Just don’t like,1,,,,,1163,0
+67,12-10-2024 09:51,12-10-2024 10:05,30,1,5,11,1,1,0,0,0,1,1,1,1,1,0,1,1,0,0,5,5,5,4,5,5,9,It has a alcohol percentage that I prefer over alcoholic beverages that have high alcohol content,There is nothing that I dislike,1,,,,,1163,0
+70,12-10-2024 10:38,12-10-2024 10:46,39,2,5,11,1,1,0,0,0,1,0,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,Ultra light and refreshing,That's not applicable,2,Stella artois,Busch,Dos equis,,1163,0
+84,12-10-2024 12:46,12-10-2024 12:56,37,2,5,11,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,5,5,4,5,5,9,The taste is refteshing,I am not a huge fan light beer,2,Corona,Corona light,Corona extra,,1163,0
+88,12-10-2024 12:54,12-10-2024 13:04,22,2,5,11,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,5,5,5,4,5,5,9,i like how the price is average,the percentage of alcohol is low,1,,,,,1163,0
+90,12-10-2024 13:04,12-10-2024 13:15,36,2,5,11,1,1,0,0,0,1,0,1,0,1,1,0,1,0,0,5,5,5,4,5,5,9,"If it is indeed low calorie and low alcohol content without compromising on taste, it might be worth the priciness.","The claims are not totally credible, and it’s a little expensive for beer.",1,,,,,1163,0
+91,12-10-2024 13:05,12-10-2024 13:18,49,1,5,11,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,5,5,5,4,5,5,9,The great taste and price,The color and price,2,Bud light,Coors light,Budweiser,,1163,1
+101,12-10-2024 13:59,12-10-2024 14:24,53,2,5,11,1,1,0,0,0,1,0,0,1,0,1,0,1,0,0,5,5,5,4,5,5,9,Only 70 calories,Nothing do I dislike,2,Sierra Nevada,Miller Light,Blue moon,,1163,0
+109,12-10-2024 14:43,12-10-2024 14:53,40,1,5,11,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Taste,Gets flat quickly,2,Heineken,Coors,Ballentine,,1163,0
+120,12-10-2024 15:26,12-10-2024 15:39,34,1,5,11,1,1,1,1,0,1,1,1,1,0,0,1,1,0,1,5,5,5,4,5,5,9,Very unique taste and benefits,Nothing much everything is good,1,,,,,1163,0
+131,12-10-2024 16:47,12-10-2024 16:56,48,2,5,11,1,1,0,0,0,0,1,1,0,1,0,0,1,0,0,5,5,5,4,5,5,9,Sounds good,Light,2,Budweiser,Bud light,Michelob,,1163,0
+145,12-10-2024 17:43,12-10-2024 17:57,56,1,5,11,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,5,5,5,4,5,5,9,The taste will have me wanting to get it,,2,Budweiser,Lager,Corona,,1163,0
+159,12-10-2024 19:15,12-10-2024 19:22,30,2,5,11,1,1,0,1,0,1,0,1,1,1,0,1,0,1,0,5,5,5,4,5,5,9,It's organic and alot healthier of a choice,Not much,3,Reds,Woodchuck,Mikes hard,,1163,0
+167,12-10-2024 19:53,12-10-2024 20:20,62,2,5,11,1,1,0,0,1,1,1,1,1,1,0,0,1,0,0,5,5,5,4,5,5,9,"It is my favorite it is light, and I like it cold",Nothing,2,Busch Light,Carona Light,Coors Light,,1163,0
+168,12-10-2024 20:25,12-10-2024 20:31,43,1,5,11,1,1,0,0,0,0,0,1,0,1,0,1,1,1,0,5,5,5,4,5,5,9,I like that it’s certified organic,There is nothing I dislike,1,,,,,1163,0
+176,12-10-2024 20:55,12-10-2024 21:21,55,1,5,11,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,5,5,5,4,5,5,9,It's the best,Nothing,3,Bud light,Coors light,Budweiser,,1163,0
+180,12-10-2024 21:03,12-10-2024 21:35,46,1,5,11,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,Nice bottle,I don’t dislike anything about it.,2,Bud light,Miller,Coors,,1163,1
+182,12-10-2024 21:39,12-10-2024 21:56,26,1,5,11,1,1,0,0,0,1,0,1,0,1,0,0,1,1,0,5,5,5,4,5,5,9,It’s quality good tasting beer,Price could be cheaper,2,Bud light,Miller lite,Busch lite,,1163,0
+189,12-10-2024 23:31,12-10-2024 23:53,48,1,5,11,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,The lower calories while being able to keep the quality and taste,I don't see anything to dislike about the product,2,Yuengling,Miller Lite,Bud light,,1163,1
+190,12-10-2024 23:56,13-10-2024 00:08,40,1,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,It's a brand name that's a light beer and I don't expect it to be too expensive.,nothing,1,,,,,1163,0
+200,13-10-2024 02:04,13-10-2024 02:23,53,2,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,It looks as if it would be a great tasting beer.I would like to try it,Well I can't nothing negative about because I've never tried it.,1,,,,,1163,0
+210,13-10-2024 05:20,13-10-2024 05:30,56,1,5,11,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,5,5,5,4,5,5,9,I don't know,Nothing,1,,,,,1163,0
+217,13-10-2024 06:33,13-10-2024 06:42,54,2,5,11,1,0,0,0,0,1,0,1,0,0,0,1,1,1,0,5,5,5,4,5,5,9,,,1,,,,,1163,0
+219,13-10-2024 06:43,13-10-2024 06:48,27,2,5,11,1,1,0,0,1,1,0,1,1,1,1,1,1,0,0,5,5,5,4,5,5,9,Didn't like anything,Didn't dislike anything,2,Bud Weiser,Bud light,Corona,,1163,0
+223,13-10-2024 07:40,13-10-2024 08:04,47,2,5,11,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,5,5,5,4,5,5,9,"I like the price, the packaging and the description of the product",There was nothing that I disliked,2,Modello,Heineken,Budweiser,,1163,1
+227,13-10-2024 08:53,13-10-2024 08:59,41,2,5,11,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,Label,Nothing,2,Stella artois,Bud,Corona,,1163,0
+234,13-10-2024 09:35,13-10-2024 09:48,40,2,5,11,1,0,0,1,0,1,1,1,0,1,0,1,1,1,0,5,5,5,4,5,5,9,Very good,Nothing I would drink this,3,Modelo lager,Coots light,Bud light,,1163,0
+246,13-10-2024 11:22,13-10-2024 11:37,36,1,5,11,1,1,0,1,0,0,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,It's a light beer,,2,Budwiser,Miler lie,Bud lite,,1163,0
+265,13-10-2024 13:50,13-10-2024 13:59,35,1,5,11,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,5,5,5,4,5,5,9,"The vividness, color. I liked it",No comment,1,,,,,1163,0
+272,13-10-2024 14:20,13-10-2024 14:28,59,1,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Its made by anheswer busch,There is nothing i dislike about the product,1,,,,,1163,0
+283,13-10-2024 14:57,13-10-2024 15:09,39,2,5,11,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,5,5,5,4,5,5,9,The color and price are what I’m looking for. The calories are also something I pay attention to,I personally don’t see anything wrong besides the flavor I don’t like the brand very much,1,,,,,1163,0
+287,13-10-2024 15:26,13-10-2024 15:34,31,2,5,11,1,1,0,0,0,1,1,1,1,1,0,1,1,0,0,5,5,5,4,5,5,9,I like the whole idea and it's very appealing.,I don't dislike it,2,Right rec,The ion,Red in,,1163,0
+298,13-10-2024 16:32,13-10-2024 16:42,32,1,5,11,1,1,0,0,0,0,0,1,1,1,0,0,1,0,0,5,5,5,4,5,5,9,I like the low carbs and the feeling of not being bloated.,I prefer beer with ABV over 5%,1,,,,,1163,0
+316,13-10-2024 17:43,13-10-2024 17:55,52,2,5,11,1,1,0,0,0,1,0,0,1,1,0,0,1,0,0,5,5,5,4,5,5,9,I like the strong but good taste,Nothing,3,Michelob light,Corona,Budweiser,,1163,0
+323,13-10-2024 18:17,13-10-2024 18:28,47,1,5,11,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,5,5,5,4,5,5,9,I don't like it,Don't drink anything,1,,,,,1163,1
+329,13-10-2024 19:02,13-10-2024 19:09,34,2,5,11,1,1,1,0,0,1,0,0,0,1,0,0,1,0,1,5,5,5,4,5,5,9,It's calorie count,Nothing,2,Coors light,Bud light,Corona,,1163,0
+330,13-10-2024 19:04,13-10-2024 19:14,63,2,5,11,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,Something new,I never had it so I do not know,1,,,,,1163,0
+332,13-10-2024 18:58,13-10-2024 19:17,23,2,5,11,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,I like the price,It has less alcohol,1,,,,,1163,0
+336,13-10-2024 19:46,13-10-2024 19:57,36,1,5,11,1,1,0,1,1,0,0,0,0,1,0,1,1,0,0,5,5,5,4,5,5,9,the attempt to make an organic beer is kinda cute.,im not sure i really care about whether or not a beer is organic.,2,millerlight,bud light,budweiser,,1163,0
+337,13-10-2024 19:45,13-10-2024 20:03,43,2,5,11,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,5,5,5,4,5,5,9,I like that it is from a trusted brand for quality,There is nothing I dislike,1,,,,,1163,0
+340,13-10-2024 20:05,13-10-2024 20:20,51,2,5,11,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,Is light,Nothing,2,Miller light,Natural light,Bad light,,1163,1
+346,13-10-2024 20:27,13-10-2024 20:35,35,2,5,11,1,0,0,0,0,1,0,1,0,0,0,1,1,0,0,5,5,5,4,5,5,9,The flavor,The package,1,,,,,1163,0
+354,13-10-2024 21:00,13-10-2024 21:11,49,2,5,11,1,1,0,1,1,1,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,I always choose this,Nothing at all,2,Bud light,Busch,Moller,,1163,0
+355,13-10-2024 21:15,13-10-2024 21:23,39,1,5,11,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,5,5,4,5,5,9,not a fan,never tried,3,ultra light,coors,corona,,1163,0
+357,13-10-2024 21:17,13-10-2024 21:26,33,1,5,11,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,I really like this,Nothing everything is good,2,Corolla,Corona extra,Coors light,,1163,0
+359,13-10-2024 21:14,13-10-2024 21:28,52,1,5,11,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,5,5,5,4,5,5,9,The taste,Its quality,3,Miller light,Budwiser,Coors,,1163,0
+362,13-10-2024 21:42,13-10-2024 21:52,42,2,5,11,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,5,5,5,4,5,5,9,Not really keen to try,Not keen to try,1,,,,,1163,0
+365,13-10-2024 22:01,13-10-2024 22:09,62,1,5,11,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,5,5,5,4,5,5,9,"Crisp taste,refreshing, extra lite",Nothing,1,,,,,1163,0
+385,14-10-2024 00:04,14-10-2024 00:10,38,2,5,11,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,5,5,5,4,5,5,9,Just being a good drink overall,Seems basic,2,Bud light,Bud weiser,Corona,,1163,0
+392,14-10-2024 00:40,14-10-2024 00:56,47,1,5,11,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Very unique and innovative,There's nothing that I dislike,1,,,,,1163,1
+393,14-10-2024 01:18,14-10-2024 01:24,39,1,5,11,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,"It looks smooth, tasty.",Not a thing.,2,Modelo,Heinikin,Miller,,1163,0
+397,14-10-2024 01:26,14-10-2024 01:49,63,1,5,11,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,5,5,5,4,5,5,9,I cannot imagine any situation that would urge me to want to buy that brand,The price is definitely too high The taste is not a taste that I like I'm a malt liquor fan like cool 45 and it's not available everywhere that I choose to be,1,,,,,1163,0
+398,14-10-2024 01:40,14-10-2024 01:55,33,1,5,11,1,0,0,0,0,1,0,1,0,0,0,1,1,0,0,5,5,5,4,5,5,9,I like the label of the bottling.,It’s too light. I like my beer filling.,1,,,,,1163,0
+399,14-10-2024 02:08,14-10-2024 02:13,41,1,5,11,1,0,0,1,0,1,0,1,1,1,0,0,1,0,0,5,5,5,4,5,5,9,Nothing,No dislike,3,Mich ultra,,,,1163,0
+403,14-10-2024 03:16,14-10-2024 03:29,52,1,5,11,1,0,0,0,0,1,1,1,1,1,0,1,1,1,0,5,5,5,4,5,5,9,Michelob is a quality brand know for quality beer.,It’s too light for me personally.,1,,,,,1163,0
+405,14-10-2024 03:58,14-10-2024 04:27,35,1,5,11,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,5,5,5,4,5,5,9,Michelob ULTRA Pure Gold is most favorite and its Test Excellent,"None about this, Michelob ULTRA Pure Gold is best one",3,Its Quality,Taste,Relaiable Product,,1163,0
+415,14-10-2024 06:59,14-10-2024 07:25,53,2,5,11,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,5,5,5,4,5,5,9,"I like that it's from Michelob, I have always liked this brand.",I don't especially like the price for a 6 pack.,2,Bud Ice,Bud Light,Budweiser,,1163,0
+423,14-10-2024 11:59,14-10-2024 12:11,55,2,5,11,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,5,5,5,4,5,5,9,Taste,Nothing,3,Bud ice,Natty daddy,Natural ice,,1163,0
+453,14-10-2024 20:42,14-10-2024 20:55,46,2,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,I would have to say that the Michelob Ultra Pure Gold seems like it would be good enough to drink and taste really good.,I dislike nothing about it,1,,,,,1163,0
+456,14-10-2024 22:50,14-10-2024 22:55,55,2,5,11,1,1,0,0,1,0,1,0,0,0,1,0,1,0,0,5,5,5,4,5,5,9,Quality variety,None at this time,2,Ultra,Zero,Unique,,1163,0
+457,14-10-2024 22:44,14-10-2024 22:57,24,1,5,11,1,1,0,1,0,0,1,1,1,1,1,0,1,0,0,5,5,5,4,5,5,9,"I might like the taste. I've never tried it, but it doesn't look bad.",I don't like that its only 3.8% alcohol. I prefer the standard 5%.,1,,,,,1163,0
+463,15-10-2024 00:14,15-10-2024 00:36,43,2,5,11,1,0,0,1,0,0,1,0,1,1,0,1,0,0,0,5,5,5,4,5,5,9,I would most definitely be more interested in it because it's organic and nNot as fattening as other beer brands. That's a huge deal for me.,Not a thing,2,Regular Michelin ultra,Bud select,Busch,,1163,1
+469,15-10-2024 06:32,15-10-2024 07:28,30,2,5,11,1,1,0,1,0,1,1,1,1,1,0,0,1,0,0,5,5,5,4,5,5,9,looks premium,nothing,1,,,,,1163,0
+487,15-10-2024 21:37,15-10-2024 21:46,30,1,5,11,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,It's affordable,The taste,3,Bud light,Jobs,Blue moon,,1163,0
+491,15-10-2024 23:01,15-10-2024 23:07,31,1,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,very good,nothing,3,walmart,target,lowes,,1163,0
+492,15-10-2024 22:50,15-10-2024 23:17,37,4,5,11,1,1,1,1,1,1,0,1,1,1,0,1,0,1,0,5,5,5,4,5,5,9,it looks clean tasting,i'm worried that it will taste kind of bland.,1,,,,,1163,0
+499,16-10-2024 01:54,16-10-2024 02:05,38,2,5,11,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,5,5,5,4,5,5,9,I like the color,Nothing,1,,,,,1163,0
+501,16-10-2024 02:28,16-10-2024 02:56,62,2,5,11,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,Nothing not my kind of beer,Don't drink this,1,,,,,1163,0
+502,16-10-2024 03:39,16-10-2024 03:50,40,1,5,11,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,5,5,5,4,5,5,9,Good,Like,3,Corona,Budweiser,Modelo,,1163,0
+506,16-10-2024 06:12,16-10-2024 06:24,33,1,5,11,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,5,5,5,4,5,5,9,Price and presentation,Taste,1,,,,,1163,0
+507,16-10-2024 06:28,16-10-2024 06:42,42,2,5,11,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,5,5,5,4,5,5,9,For me it was the only the best grown ingredients in America.,"I dont like light beer much. So, I woukdnt purchase this.",1,,,,,1163,0
+511,16-10-2024 07:52,16-10-2024 08:02,33,1,5,11,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,5,5,5,4,5,5,9,Nice attracting color and taste,I dislike the price,2,Budweiser,Heineken,Stella,,1163,0
+519,16-10-2024 13:50,16-10-2024 14:04,33,1,5,11,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,5,5,5,4,5,5,9,feels cleaner without sacrificng taste,sommetimes a bit too light,2,corona,modelo,bisch,,1163,0
+527,16-10-2024 15:19,16-10-2024 15:49,40,1,5,11,1,1,0,0,0,0,0,1,1,1,0,0,1,1,0,5,5,5,4,5,5,9,I have drank Pure Gold before it’s a very smooth and tasty beer. I like that it’s essentially gluten free.,It would have to be the price but overall a good beer.,2,Busch,Busch ice,Natural light,,1163,0
+531,16-10-2024 16:21,16-10-2024 16:32,41,1,5,11,1,1,0,0,0,1,0,1,1,0,0,1,1,1,0,5,5,5,4,5,5,9,The flavor is the most important thing about Michelob ULTRA Pure Gold,I do not dislike anything about Michelob ULTRA Pure Gold: Extra Light Lager.,1,,,,,1163,0
+543,16-10-2024 18:45,16-10-2024 18:54,35,2,5,11,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,5,5,5,4,5,5,9,That Michelob tends to make good beer,I prefer Bud light over michelob,2,Budlight,Hurricane,Steel reserve,,1163,0
+544,16-10-2024 18:46,16-10-2024 19:22,41,1,5,11,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,5,5,5,4,5,5,9,It is good for me,I like this,1,,,,,1163,0
+559,16-10-2024 22:52,16-10-2024 23:03,53,1,5,11,1,1,0,0,0,1,0,0,0,1,0,0,1,0,0,5,5,5,4,5,5,9,No comment for this answer,Nothing,2,Budweiser,Coors,Lite,,1163,0
+572,17-10-2024 03:58,17-10-2024 04:09,25,1,5,11,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,5,5,5,4,5,5,9,The color and flavor,The lower alcohol content,2,Heineken,Ciroq,Tequila,,1163,0
+586,17-10-2024 07:11,17-10-2024 07:35,36,1,5,11,1,0,0,0,0,1,1,1,1,1,1,1,0,0,1,5,5,5,4,5,5,9,The taste and the flavors,Nothing to dislike,2,Coors light,Bud light,Budweiser,,1163,0
+588,17-10-2024 07:29,17-10-2024 07:47,26,2,5,11,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,5,5,5,4,5,5,9,One ting I like about this beer is the low number of calories in it. 85 calories in a beer is relatively low and would not significantly affect my health and lifestlye.,One of the things I don't like is the transparent nature of the bottle which exposes the gold-like contents beer inside. I believe that the color of the bottle should be colored to make it more appealing and confidential drink.,2,Heineken,Corona,Corona premium,,1163,0
+591,17-10-2024 07:47,17-10-2024 07:55,35,1,5,11,1,1,0,0,0,1,1,0,1,0,0,0,1,0,1,5,5,5,4,5,5,9,It is a premium quality drink,Nothing to have dislike,2,Nestle,Red Bull,7 AB InBev,,1163,0
+592,17-10-2024 07:44,17-10-2024 07:55,34,1,5,11,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,The body,I like everything,2,Bud Light,Budweiser,Marina,,1163,0
+596,17-10-2024 07:42,17-10-2024 08:16,30,1,5,11,1,1,0,1,0,0,1,1,1,1,0,1,1,0,0,5,5,5,4,5,5,9,I enjoy the flavor and taste,The price is not great,2,Heineken,dos x,beer,,1163,0
+598,17-10-2024 08:16,17-10-2024 08:29,31,1,5,11,1,0,0,0,0,1,0,0,1,1,1,0,1,0,0,5,5,5,4,5,5,9,The taste,Price,2,Twisted tea,Corona,Truelys,,1163,0
+603,17-10-2024 08:55,17-10-2024 09:06,37,2,5,11,1,1,0,1,0,1,1,1,1,1,0,1,1,1,0,5,5,5,4,5,5,9,I like the price it’s great,Nothing I dislike about it,1,,,,,1163,0
+614,17-10-2024 09:44,17-10-2024 10:06,50,2,5,11,1,1,0,1,1,1,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,That is light,Nothing,3,Corona,Stella,budwiser,,1163,0
+616,17-10-2024 10:22,17-10-2024 10:33,54,2,5,11,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,no,no,1,,,,,1163,0
+632,17-10-2024 14:05,17-10-2024 14:22,38,2,5,11,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,5,5,5,4,5,5,9,Low calorie,I liked everything,2,Corona,Tecate,Budweisser,,1163,0
+642,17-10-2024 15:29,17-10-2024 15:36,34,1,5,11,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0,5,5,5,4,5,5,9,The taste and filling,The cost,2,Crisp,Gold,Refresh,,1163,0
+644,17-10-2024 15:34,17-10-2024 15:44,43,1,5,11,1,1,0,0,0,0,0,1,1,1,0,0,1,0,0,5,5,5,4,5,5,9,I like that it is organic and a light beer.  I also like Michelob Ultra.,I don't like the expensive cost.,1,,,,,1163,0
+654,17-10-2024 16:27,17-10-2024 16:34,46,1,5,11,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,5,5,5,4,5,5,9,I like the way it looks.,I dislike the alcohol content in it.,1,,,,,1163,0
+662,17-10-2024 18:19,17-10-2024 18:27,26,2,5,11,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,I have never had this beer,I don’t know,1,,,,,1163,0
+669,17-10-2024 19:27,17-10-2024 19:31,31,2,5,11,1,1,0,1,1,1,1,1,1,1,0,1,1,0,0,5,5,5,4,5,5,9,I like that it always stay the same -taste,Nothing in particular,2,Budweiser,Corona,Heineken,,1163,0
+673,17-10-2024 20:06,17-10-2024 20:18,60,1,5,11,1,1,0,0,0,0,0,1,1,0,0,1,1,0,0,5,5,5,4,5,5,9,"Really, nothing","I don’t like the look, or the taste, I’ve tasted it but never had a full can or bottle. The price is awful",1,,,,,1163,0
+682,17-10-2024 21:24,17-10-2024 21:30,47,1,5,11,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,5,5,5,4,5,5,9,Nothing,Everything,1,,,,,1163,1
+684,17-10-2024 22:24,17-10-2024 22:35,37,1,5,11,1,1,0,1,0,1,1,1,0,1,0,1,0,0,0,5,5,5,4,5,5,9,Taste quality and price,Some stores don’t sell it,1,,,,,1163,0
+686,17-10-2024 22:44,17-10-2024 22:50,33,1,5,11,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,I like the color,I dislike the brand name,1,,,,,1163,0
+687,17-10-2024 22:42,17-10-2024 22:55,58,1,5,11,1,0,0,1,0,1,1,1,1,1,0,0,1,0,0,5,5,5,4,5,5,9,Would like to try,Nothing,3,Budweiser,Bush,Natural light,,1163,0
+689,17-10-2024 22:48,17-10-2024 23:04,37,2,5,11,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,5,5,5,4,5,5,9,Low in calories,Low in alcohol,1,,,,,1163,0
+693,17-10-2024 23:14,17-10-2024 23:23,46,1,5,11,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,It’s light and tastes great,There’s nothing that I dislike,2,Bud Ice,Steele Reserve,Crazy Stallion,,1163,1
+703,18-10-2024 00:24,18-10-2024 00:39,39,1,5,11,1,1,0,1,0,1,1,1,1,1,0,1,0,0,0,5,5,5,4,5,5,9,I like the flavor mostly. It has a nice light note to it.,There is nothing g that I dislike.,2,Miller Lite,Bud Lite,Corona,,1163,0
+727,18-10-2024 06:56,18-10-2024 07:07,31,1,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,"It is new and different, trusted  brand",I have nothing to say,1,,,,,1163,0
+743,18-10-2024 22:17,18-10-2024 22:29,26,1,5,11,1,1,0,0,0,1,0,0,0,1,0,0,1,0,0,5,5,5,4,5,5,9,The whole aspect of the beer such as how its represented makes me want to buy it. Also it oooks appealing in gold which matches the drink,Not much i can dislike unless ive tasted it and dont like the flavor.,1,,,,,1163,0
+748,18-10-2024 23:40,18-10-2024 23:46,29,1,5,11,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,5,5,5,4,5,5,9,I like the flavor,I don’t dislike anything,2,Miller,Modelo,Busch,,1163,0
+754,19-10-2024 06:32,19-10-2024 06:49,58,1,5,11,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,5,5,5,4,5,5,9,Nothing in the ad speaks to me,Poor quality,1,,,,,1163,0
+772,19-10-2024 11:37,19-10-2024 11:45,42,2,5,11,1,1,0,0,0,1,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,I like that it's a lager,I don't like that it's light beer,1,,,,,1163,0
+775,19-10-2024 12:01,19-10-2024 12:09,36,1,5,11,1,1,0,0,0,1,0,1,1,0,0,1,1,0,0,5,5,5,4,5,5,9,Interesting,Reliable,2,Interesting,Interesting,Fantastic,,1163,0
+779,19-10-2024 13:16,19-10-2024 13:29,35,1,5,11,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,5,5,5,4,5,5,9,It's tasty,Absolutely nothing.,2,Great,Dark,Tasty,,1163,0
+791,19-10-2024 23:00,19-10-2024 23:17,65,2,5,11,1,1,0,1,0,1,1,1,1,1,0,0,1,1,0,5,5,5,4,5,5,9,The little less alcohol content for when you’re watching out for the alcohol intake you’re consuming without missing out on the fun that’s gold .,I don’t dislike anything about the beer as a matter a fact I have quite a bit of acquaintances that need to be drinking this beer .,1,,,,,1163,0
+806,20-10-2024 16:32,20-10-2024 16:44,35,2,5,11,1,0,0,0,0,0,1,0,1,0,0,1,1,1,0,5,5,5,4,5,5,9,I like the light taste of michelob and would probably want to try this cause it new,Maybe just the price point,2,Corona,Bud light,Bud light lime,,1163,0
+816,20-10-2024 21:15,20-10-2024 21:24,61,1,5,11,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,5,5,5,4,5,5,9,It’s something you use to chill out with your friends,Having to go and buy more when you run out,2,Coors light,Bud,Bush,,1163,0
+837,20-10-2024 22:24,20-10-2024 23:18,28,1,5,11,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,it sounds like a good twist,i want more flavors,2,corona,miller,yeing,,1163,0
+841,21-10-2024 00:36,21-10-2024 00:44,34,1,5,11,1,0,0,0,0,0,0,1,1,1,0,1,1,1,0,5,5,5,4,5,5,9,The way it looks,Pricing,1,,,,,1163,0
+846,21-10-2024 05:40,21-10-2024 05:52,37,2,5,11,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,5,5,5,4,5,5,9,It comes from a brand I feel is good and I trust.,There is nothing I dislike about it right now.,2,Budweiser Select,Michelob Ultra,Bud Light,,1163,0
+847,21-10-2024 05:41,21-10-2024 05:56,53,1,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,I don't like anything about it,I don't like anything about it,1,,,,,1163,0
+892,21-10-2024 13:52,21-10-2024 14:04,47,2,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,5,5,5,4,5,5,9,The packaging is amazing and looks premium and the beer looks so refreshing and amazing,There is nothing to dislike,3,Michelob Ultra,Bud light seltzer,Corona,,1163,0
+893,21-10-2024 13:59,21-10-2024 14:07,40,1,5,11,1,1,0,0,0,1,1,1,1,1,0,1,1,1,0,5,5,5,4,5,5,9,It is something different and unique to me.,The price is a little high for what it is.,2,Corona,Busch,Bud light,,1163,0
+903,21-10-2024 14:21,21-10-2024 14:33,56,1,5,11,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,I don't know,I don't know,1,,,,,1163,0
+911,21-10-2024 14:53,21-10-2024 15:02,58,2,5,11,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,5,5,5,4,5,5,9,It is one I am familar with and my family likes.,Nothing,2,Budweiser,Corona,Heineken,,1163,0
+934,21-10-2024 17:31,21-10-2024 17:43,60,1,5,11,1,0,0,0,0,0,0,1,1,1,1,0,0,1,0,5,5,5,4,5,5,9,Low carbs,Nothing,2,Miller lite,Stella,Michelob ultra,,1163,0
+953,21-10-2024 18:08,21-10-2024 18:30,42,1,5,11,1,1,0,1,0,1,1,1,1,1,0,1,1,1,0,5,5,5,4,5,5,9,It's a really good brand that I trust.,Nothing really,1,,,,,1163,0
+954,21-10-2024 18:29,21-10-2024 18:34,38,2,5,11,1,1,0,1,1,1,0,0,1,1,0,1,0,1,0,5,5,5,4,5,5,9,No,No,1,,,,,1163,0
+958,21-10-2024 18:39,21-10-2024 18:53,55,1,5,11,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,5,5,5,4,5,5,9,Less calories maybe. I don’t dislike it just not my preference,Nothing,1,,,,,1163,0
+966,21-10-2024 18:54,21-10-2024 19:14,29,2,5,11,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,5,5,5,4,5,5,9,Light beer with crispy taste,Nothing to dislike,2,Heineken,Busch,Bud light,,1163,0
+970,21-10-2024 19:11,21-10-2024 19:25,64,1,5,11,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,5,5,5,4,5,5,9,High quality beer for not that expensive of price,Not really anything to be honest,1,,,,,1163,0
+976,21-10-2024 19:33,21-10-2024 19:40,50,2,5,11,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,5,5,5,4,5,5,9,Flavor,Nothing,2,,,,,1163,1
+979,21-10-2024 19:35,21-10-2024 19:55,58,2,5,11,1,0,0,0,0,1,0,0,1,1,0,1,0,0,0,5,5,5,4,5,5,9,"IT IS CRISP AND REFRESHING. IT HAS GREAT TASTE AND NO ARTIFICAL  COLORS OT FLAVORS, IT IS A LIGHT ORGANIC BEER",NOTHING IS DISLIKED,1,,,,,1163,0
+984,21-10-2024 19:51,21-10-2024 20:10,65,1,5,11,1,0,0,0,0,1,0,1,0,1,0,1,0,0,0,5,5,5,4,5,5,9,It’s got a good color,Budweiser products tend to have weak tastes,2,Michelob Ultra,Miller Lite,Bud Light,,1163,0
+1001,21-10-2024 19:56,21-10-2024 20:37,62,2,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,5,5,5,4,5,5,9,The name Pure Gold,Extra Light,1,,,,,1163,0
+1006,21-10-2024 20:24,21-10-2024 20:42,56,1,5,11,1,0,0,0,0,1,0,1,0,1,0,1,1,1,0,5,5,5,4,5,5,9,The taste/flavor it has,Doesn't always quench my thirst when having spicy foods,1,,,,,1163,0
+1009,21-10-2024 20:40,21-10-2024 20:48,31,2,5,11,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,5,5,5,4,5,5,9,I like the designa,Nothing,2,Bud light,Cororna,Coors light,,1163,0
+1011,21-10-2024 20:36,21-10-2024 20:50,26,2,5,11,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,5,5,4,5,5,9,The smooth taste,It’s very hard to find where I reside they sell out very fast,3,Budweiser,Mescato Wine,Dos XX,,1163,0
+1014,21-10-2024 20:43,21-10-2024 20:58,56,2,5,11,1,0,0,0,0,0,0,1,1,1,0,1,0,0,0,5,5,5,4,5,5,9,It's a premium beer. I light the packaging to.,Nothing,3,Busch light,Coors light,Miller light,,1163,0
+1047,21-10-2024 22:53,21-10-2024 23:03,63,2,5,11,1,0,0,0,0,1,0,1,0,1,0,0,1,1,0,5,5,5,4,5,5,9,Very smooth taste and flavor,Nothing like it very much,2,Miller High Life,Bud light,Corona,,1163,0
+1055,21-10-2024 23:01,21-10-2024 23:29,21,2,5,11,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,I have never drank it so I can't say,Nothing to say because I've never drank it,1,,,,,1163,0
+1072,22-10-2024 00:12,22-10-2024 00:22,41,2,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,low calories,taste,1,,,,,1163,0
+1084,22-10-2024 00:40,22-10-2024 00:56,45,2,5,11,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Low calorie and the price being average,Can’t think of snything,1,,,,,1163,1
+1093,22-10-2024 01:52,22-10-2024 02:01,34,2,5,11,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,5,5,5,4,5,5,9,Looks like it would taste really good,Nothing much really,1,,,,,1163,0
+1095,22-10-2024 02:05,22-10-2024 02:12,27,1,5,11,1,1,0,0,0,0,1,1,0,1,1,1,1,0,0,5,5,5,4,5,5,9,i want to try it before i say i like it.,nothing yet,1,,,,,1163,0
+1098,22-10-2024 02:07,22-10-2024 02:19,34,2,5,11,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,5,5,5,4,5,5,9,I think it would taste better because it's organic,I feel like it might be more expensive,2,hurricane,steel reserve,coors light,,1163,0
+1112,22-10-2024 03:56,22-10-2024 04:05,54,2,5,11,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,Nothing,Everything,1,,,,,1163,0
+1113,22-10-2024 03:56,22-10-2024 04:13,48,1,5,11,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,5,5,5,4,5,5,9,i like it very much,i dont like the color,2,food,apple,gold,,1163,0
+1124,22-10-2024 04:36,22-10-2024 04:46,39,1,5,11,1,1,0,1,0,1,1,1,1,0,0,0,1,1,0,5,5,5,4,5,5,9,i like it very much,nothing,2,bud light,beer,vodka,,1163,0
+1130,22-10-2024 04:41,22-10-2024 04:55,36,1,5,11,1,1,0,0,0,1,0,0,1,1,0,0,1,0,0,5,5,5,4,5,5,9,I like the smoothness of the product,I dont dislike it,1,,,,,1163,0
+1141,22-10-2024 05:00,22-10-2024 05:11,63,1,5,11,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,5,5,5,4,5,5,9,"I like the it's organic, made in the USA, and there are no artificial ingredients.",It's very light and light on alcohol.,2,Miller Geniune Draft,Miller Light,Coor Lite,,1163,0
+1169,22-10-2024 06:32,22-10-2024 06:54,39,1,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,5,5,5,4,5,5,9,it is good for best,nothing to say,3,good,great,nice,,1163,0
+1190,22-10-2024 07:57,22-10-2024 08:08,37,1,5,11,1,1,1,0,0,1,1,0,1,1,0,1,0,0,0,5,5,5,4,5,5,9,This is very unique,No dislike all good,3,light lager,Anheuser Busch,Michelob,,1163,0
+1192,22-10-2024 08:00,22-10-2024 08:16,65,2,5,11,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Organic ingredients.,Normal stuff.,2,Michelob Golden,Coors,Pabst,,1163,0
+1205,22-10-2024 09:04,22-10-2024 09:12,37,1,5,11,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,5,5,5,4,5,5,9,A refreshing drink full of flavor,Just a little weak in alcohol volume,2,Coors,Miller lite,Non alcoholic drink,,1163,0
+1213,22-10-2024 09:40,22-10-2024 10:01,26,1,5,11,1,1,0,1,0,1,1,1,1,1,0,1,1,1,0,5,5,5,4,5,5,9,It seems like it would be a light and crisp taste,Not a lot of alcohol,2,Michlob Ultra,Miller Lite,Bucsh Light,,1163,0
+1225,22-10-2024 10:29,22-10-2024 10:38,48,2,5,11,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Nothing in particular,Nothing in particular,1,,,,,1163,1
+1226,22-10-2024 10:37,22-10-2024 10:52,60,1,5,11,1,0,0,0,0,1,0,1,0,1,0,0,1,1,0,5,5,5,4,5,5,9,pretty color and packaging,the flavor of all their other products dissuades me from spending money on this,1,,,,,1163,0
+1227,22-10-2024 10:43,22-10-2024 10:52,31,1,5,11,1,1,1,0,1,0,0,1,1,1,0,0,1,0,0,5,5,5,4,5,5,9,its only has 85 calories,its 9.99 for 6pk,3,hieniken,busch,none,,1163,0
+1240,22-10-2024 11:21,22-10-2024 11:35,49,2,5,11,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,That it's different new and looks good,There is nothing really to not like,1,,,,,1163,1
+1241,22-10-2024 11:24,22-10-2024 11:37,41,2,5,11,1,0,0,1,0,1,1,1,0,1,0,1,1,1,0,5,5,5,4,5,5,9,I like that it's a better option for you that doesn't sacrifice taste.,There's nothing to dislike about it.,2,Samuel Adams,Stella,Coors,,1163,0
+1243,22-10-2024 11:27,22-10-2024 11:40,55,2,5,11,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,5,5,5,4,5,5,9,A crisp refreshing experience.,,2,Bud light,Miller light,Colors lught,,1163,0
+1247,22-10-2024 11:40,22-10-2024 11:49,62,2,5,11,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Nothing never drunk it,Nothing never drunk it,1,,,,,1163,0
+1248,22-10-2024 11:45,22-10-2024 11:50,41,1,5,11,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,5,5,5,4,5,5,9,MICHELOB ULTRA HAS RICH AUTHENTIC FLAVOR THAT ABSOLUTELY INTRIGUES ME,RICH IN CALORIES i NEED TO WORK OUT,3,BUD LIGHT,STELL ARTOIS,WHITE CLAW,,1163,0
+1256,22-10-2024 11:47,22-10-2024 12:11,35,1,5,11,1,1,0,1,0,1,1,1,1,1,1,1,0,0,0,5,5,5,4,5,5,9,i like it a lot,none,3,corona,budweirse,lig,,1163,0
+1258,22-10-2024 12:05,22-10-2024 12:14,34,2,5,11,1,1,0,1,0,0,1,1,1,1,1,0,1,0,1,5,5,5,4,5,5,9,The low carb benefit,Not sure if it would be as good because of very low alcohol content,2,Michelob ultra,Bud light,Coors,,1163,0
+1260,22-10-2024 12:14,22-10-2024 12:22,40,2,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,Awesome love it tasty and delicious,I'm not sure nothing,1,,,,,1163,0
+1261,22-10-2024 12:29,22-10-2024 12:40,61,1,5,11,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,Light beer with refreshing taste,Nothing,1,,,,,1163,0
+1270,22-10-2024 13:28,22-10-2024 13:55,34,1,5,11,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,5,5,5,4,5,5,9,Nice,,3,,Nonr,N,,1163,0
+1271,22-10-2024 13:44,22-10-2024 13:57,47,1,5,11,1,1,0,0,0,1,1,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,It's high alcohol content,It's price,1,,,,,1163,0
+1275,22-10-2024 14:04,22-10-2024 14:13,40,2,5,11,1,0,0,1,0,1,0,0,1,1,0,0,1,0,0,5,5,5,4,5,5,9,I would like the flavor,The flavor,1,,,,,1163,0
+1283,22-10-2024 14:51,22-10-2024 14:59,51,1,5,11,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,5,5,5,4,5,5,9,85 calories,Most beer drinkers don't care if alcohol is organic.,1,,,,,1163,1
+1284,22-10-2024 14:57,22-10-2024 15:06,54,2,5,11,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,5,5,5,4,5,5,9,No comment,No comment,1,,,,,1163,0
+1286,22-10-2024 15:01,22-10-2024 15:14,38,1,5,11,1,1,0,1,0,1,1,1,0,1,0,0,1,1,0,5,5,5,4,5,5,9,The price for a 6 pack,Only 3.8% alcohol,2,Bud light,Milwaukee Best,Michelob ultra regular,,1163,0
+1287,22-10-2024 14:59,22-10-2024 15:20,35,2,5,11,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,5,5,5,4,5,5,9,everything appealing,none,3,nice,like it,the best,,1163,0
+1296,22-10-2024 15:36,22-10-2024 15:52,52,2,5,11,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,5,5,5,4,5,5,9,Less calories,Less alcohol,1,,,,,1163,0
+1307,22-10-2024 16:17,22-10-2024 16:33,35,2,5,11,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Nothing because I don’t like/drink it,It don’t look good at all,3,Necklace,Ring,Earting,,1163,0
+1324,22-10-2024 17:31,22-10-2024 17:44,40,1,5,11,1,0,0,0,0,1,0,1,0,1,0,1,1,1,0,5,5,5,4,5,5,9,if you wanted a low ABV beer i guess this would be okay,the alcohol content is just too low,1,,,,,1163,0
+1340,22-10-2024 18:40,22-10-2024 18:59,63,1,5,11,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,The bottle and the coloring,Nothing,3,Budweiser,Coors,Corina,,1163,0
+1355,22-10-2024 19:27,22-10-2024 19:36,65,1,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Organic form,Light lager,1,,,,,1163,0
+1357,22-10-2024 18:43,22-10-2024 19:38,63,2,5,11,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,5,5,5,4,5,5,9,Organic is appealing,nothing comes to mind,2,Corona Premier,Vodka,Tequila,,1163,0
+1364,22-10-2024 19:50,22-10-2024 19:57,42,2,5,11,1,0,0,0,0,1,0,1,0,0,0,1,1,0,0,5,5,5,4,5,5,9,Nothing,Everything,1,,,,,1163,0
+1373,22-10-2024 19:46,22-10-2024 20:08,46,2,5,11,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,5,5,5,4,5,5,9,The amount of carbs and calories are the most appealing to me.,"The color gold and the word make me think if Miller for some reason, that steers me away.",1,,,,,1163,1
+1382,22-10-2024 20:20,22-10-2024 20:31,55,1,5,11,1,0,0,1,0,1,0,0,0,1,0,1,1,0,0,5,5,5,4,5,5,9,Low carb,The taste,2,Michelob light,Coord light,Bush,,1163,0
+1385,22-10-2024 20:33,22-10-2024 20:38,29,1,5,11,1,0,0,1,0,0,1,1,1,0,0,1,1,0,0,5,5,5,4,5,5,9,The low alcohol percent and price does the trick,Nothing at all,2,Miller Lite,Budlight,Miller,,1163,0
+1386,22-10-2024 20:22,22-10-2024 20:42,64,2,5,11,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,5,5,4,5,5,9,The taste,Nothing,3,Bud light,Bush light,Natural  light,,1163,0
+1393,22-10-2024 21:31,22-10-2024 21:48,48,2,5,11,1,0,0,0,0,1,0,1,0,1,0,1,0,0,0,5,5,5,4,5,5,9,I like that is crisp and made with home grown ingredients,I dislike light low calorie beer,1,,,,,1163,1
+1405,22-10-2024 22:37,22-10-2024 22:54,60,2,5,11,1,0,0,1,0,1,0,1,1,1,0,1,0,0,0,5,5,5,4,5,5,9,It has only 85 calories,The price is to much,1,,,,,1163,0
+1408,22-10-2024 22:51,22-10-2024 23:00,29,2,5,11,1,1,0,0,0,1,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,It might interest me to buy it when I am in the mood for something light. A low alcoholic drink would be perfect,The bottle isn’t too appealing. If I were looking for this in the store it would be hard to find because it doesn’t stand out as much with it’s packaging,1,,,,,1163,0
+1409,22-10-2024 22:51,22-10-2024 23:01,45,2,5,11,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,5,5,5,4,5,5,9,It's a low carb beer,I've tried it and don't like the flavor,1,,,,,1163,1
+1416,23-10-2024 01:39,23-10-2024 01:44,30,1,5,11,1,0,0,1,0,1,1,0,1,1,0,0,0,0,0,5,5,5,4,5,5,9,clean and slick look,a bit too simple,3,cool,modern,interesting,,1163,0
+1417,23-10-2024 01:27,23-10-2024 01:45,44,1,5,11,1,0,0,0,0,0,1,0,1,0,0,1,1,1,0,5,5,5,4,5,5,9,I like that it's 1/3 less alcohol not completely none alcoholic.,Nothing really. Maybe could be $1-2 cheaper.,2,White claw,Mikes harder,Busch light,,1163,1
+1441,23-10-2024 07:01,23-10-2024 07:09,63,1,5,11,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,5,5,5,4,5,5,9,Premium beer with lower calories at a good price,Nothing - all sounds great,1,,,,,1163,0
+1450,23-10-2024 07:19,23-10-2024 07:30,63,1,5,11,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,The only thing that I like is that it's a light beer.,I never cared for the taste of Michelob,1,,,,,1163,0
+1466,23-10-2024 09:32,23-10-2024 09:40,65,1,5,11,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,5,5,5,4,5,5,9,I like the Ultra brand,Nothing,2,Regular Michelob Ultra,Coors Light,Michelob,,1163,0
+1475,23-10-2024 10:18,23-10-2024 10:28,35,2,5,11,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,5,5,5,4,5,5,9,I like the lower calorie count.,I don't know if I would like this beer.,2,Blue Moon,Summer Shandy,Budlight,,1163,0
+1485,23-10-2024 11:44,23-10-2024 11:55,59,2,5,11,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,5,5,5,4,5,5,9,Organic American products,Price,2,Heineken silver,Coors light,Bud light,,1163,0
+1489,23-10-2024 11:51,23-10-2024 12:05,52,2,5,11,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Nothing,Low alcohol,1,,,,,1163,0
+1490,15-10-2024 23:11,15-10-2024 23:19,34,1,5,11,1,1,0,0,0,1,1,0,1,0,1,1,0,0,0,5,5,5,4,5,5,9,ULTRA is my favorite is so good,Is so good and better than the one you decide,3,Amazon,Wolmat,Target,,1163,0
+1501,18-10-2024 06:11,18-10-2024 06:21,53,1,5,11,1,1,0,0,0,0,1,0,0,0,0,1,1,0,0,5,5,5,4,5,5,9,It's a light beer with low calories,I am not sure until I taste it,2,Corona light,,,,1163,0
+1525,13-10-2024 11:57,13-10-2024 12:13,21,2,5,11,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,5,5,5,4,5,5,9,I like how it taste.,it not a pretty color.,2,bud light,carna,sweep jucie,,1163,0
+1539,22-10-2024 03:02,22-10-2024 03:13,40,1,5,11,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,5,5,5,4,5,5,9,It's a different beer,It's too much of a stray from the original,1,,,,,1163,0
+1577,11-10-2024 11:26,11-10-2024 11:52,29,2,5,11,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,5,5,5,4,5,5,9,Its made with quality American ingredients,Nothing,1,,,,,1163,0
+1608,22-10-2024 01:15,22-10-2024 01:26,40,1,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,It's very sweet and good for heath,It's very expensive,1,,,,,1163,0
+1612,23-10-2024 05:20,23-10-2024 05:34,60,1,5,11,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,5,5,5,4,5,5,9,Premium organic ingredients,10 bucks for six pack is more that I want to spend.,1,,,,,1163,0
+1620,22-10-2024 15:42,22-10-2024 16:09,60,1,5,11,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,it looks like  all the others to me nothing stands out,its michelob then its not only light but ultra light,1,,,,,1163,0
+1633,21-10-2024 13:55,21-10-2024 14:11,54,2,5,11,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,5,5,5,4,5,5,9,I dont really like it so much,I just like Budweiser,1,,,,,1163,0
+1650,12-10-2024 12:39,12-10-2024 12:47,38,1,5,11,1,1,0,1,0,0,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,I don't like nothing about this $1 beer,Everything about it,1,,,,,1163,0
+1652,22-10-2024 04:11,22-10-2024 04:30,44,2,5,11,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,I really only like Michelob,Don't know,1,,,,,1163,1
+1653,17-10-2024 16:22,17-10-2024 16:32,38,2,5,11,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,5,5,5,4,5,5,9,the calroies,"not a fan of the packaging, too much gold it feels weird",2,Michelob Ultra,Bud Light,Montuckey,,1163,0
+1655,17-10-2024 15:38,17-10-2024 15:54,32,1,5,11,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,5,5,5,4,5,5,9,That it's light and not to hard when u drink I like a smooth tastw,I can't say I dislike anything about it,3,Corona light,Coors light,Dos xx,,1163,0
+1667,22-10-2024 19:08,22-10-2024 19:30,60,2,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,,,1,,,,,1163,0
+1670,17-10-2024 20:04,17-10-2024 20:11,48,2,5,11,1,0,0,0,0,1,1,1,1,1,1,0,1,0,0,5,5,5,4,5,5,9,The color and packaging is nice also.low calories,Nothing,2,Modelo Oro,Dos equis,Seagrams,,1163,1
+1671,13-10-2024 17:50,13-10-2024 18:21,64,1,5,11,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,"Organic Light Beer is something new, and different.",Nothing! I would give this product a try.,1,,,,,1163,0
+1673,23-10-2024 04:24,23-10-2024 04:36,63,2,5,11,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,5,5,5,4,5,5,9,No artificial flavors or colors,Light beers usually do not have a true beer taste,1,,,,,1163,0
+1675,18-10-2024 00:20,18-10-2024 00:50,48,1,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,5,5,5,4,5,5,9,The taste is the most important thing,nothing,2,Heinikein,busch,coors,,1163,1
+1677,13-10-2024 14:10,13-10-2024 14:29,61,1,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Nothing,Everything,1,,,,,1163,0
+1683,11-10-2024 19:32,11-10-2024 19:43,35,1,5,11,1,1,0,0,0,1,1,1,1,1,1,1,1,0,1,5,5,5,4,5,5,9,"One thing I really LIKE about Michelob ULTRA Pure Gold is its commitment to using high-quality, organic ingredients. This sets it apart from many other light lagers on the market and makes me feel better about the ingredients I'm consuming. The fact that it's made with organic grains and without any artificial colors or flavors is really appealing. It's a refreshing option for those who want to enjoy a light beer without compromising on taste or ingredient quality. Additionally, the brand's focus on sustainability and their partnership with farmers to source organic grains is a positive aspect that aligns with my values and makes me more likely to choose this beer over others.","While there are many things to LIKE about Michelob ULTRA Pure Gold, one thing I DISLIKE is that it can be a bit more expensive than other light lagers on the market. The premium ingredients and organic certification are definitely factors in the higher price point, but it can still be challenging to justify the added cost, especially when there are more affordable options available. Additionally, although the taste is generally good for a light beer, some people might find that it lacks the depth and complexity of other craft beers. While this might not be a concern for those seeking a refreshing, easy-drinking lager, it's something to consider for those who prefer more robust flavor profiles.",3,Bud Light,Coors Light,regular Michelob ULTRA,,1163,0
+1686,22-10-2024 19:46,22-10-2024 20:09,63,2,5,11,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,It looks like it might be good but I stick to beer that I have drank and I don't drink light beer,Nothing really,2,Budweiser,Bud ice,Old English,,1163,0
+1689,22-10-2024 21:14,22-10-2024 21:24,23,2,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,"The packing and color is beautiful, however I have never tried this alcohol. I would like to one day.",No opinion,1,,,,,1163,0
+1698,22-10-2024 00:23,22-10-2024 00:37,53,2,5,11,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,5,5,5,4,5,5,9,Taste,Nothing,1,,,,,1163,0
+1705,22-10-2024 11:44,22-10-2024 11:57,50,2,5,11,1,0,0,0,0,1,0,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,Keep organic light lager and make it bigger. I like the word pure,That organic isn't in a larger font so you can really see it,1,,,,,1163,1
+1714,18-10-2024 06:22,18-10-2024 06:48,44,1,5,11,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Smooth taste,Nothing,1,,,,,1163,1
+1737,21-10-2024 21:53,21-10-2024 22:32,54,2,5,11,1,0,0,0,0,0,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,I'm not really interested in trying Michelob ultra pure gold at all,Michelob is not a brand that I care for I don't really like it,1,,,,,1163,0
+1744,12-10-2024 20:09,12-10-2024 20:29,56,1,5,11,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Light beer with full flavor.,The price.,1,,,,,1163,0
+1745,18-10-2024 06:04,18-10-2024 06:26,47,1,5,11,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,5,5,5,4,5,5,9,Is made with natural and organic ingredients and it only has 85% calories,There's nothing I dislike,2,Bud light,Corona extra,Modelo,,1163,1
+1746,21-10-2024 19:36,21-10-2024 20:05,51,2,5,11,1,0,0,0,0,1,0,1,1,1,0,1,1,0,0,5,5,5,4,5,5,9,I liked that it is light on alcohol content and yet still refreshing,I don’t dislike anything,2,Rolling rock,Millet light,Spycam,,1163,1
+1751,22-10-2024 20:22,22-10-2024 20:42,55,2,5,11,1,0,0,0,0,1,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,85 Calories,Price,2,IPA,New Belgium,Hornitos tequila,,1163,0
+1756,22-10-2024 04:09,22-10-2024 04:22,25,1,5,11,1,1,0,0,0,1,1,1,1,1,0,0,1,0,1,5,5,5,4,5,5,9,I believe I would like the flavor ultra light has as a beef compared to other beers I had in the past,I don’t have any dislikes about ultra light maybe the design,1,,,,,1163,0
+1770,21-10-2024 19:28,21-10-2024 19:49,61,1,5,11,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,5,5,5,4,5,5,9,It looks like it would be a pilsner tap beer and that's not my favorite type of beer.,I just don't believe that I would like it,2,Bud light,Budweiser,Michelob dark,,1163,0
+1775,22-10-2024 16:47,22-10-2024 16:54,36,1,5,11,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,5,5,5,4,5,5,9,Everything about it,Nothing exactly,3,Leo,Kiki,Nike,,1163,0
+1784,14-10-2024 21:02,14-10-2024 21:12,38,2,5,11,1,1,1,0,0,1,1,1,1,0,0,1,1,0,1,5,5,5,4,5,5,9,alcohol content,nothing,1,,,,,1163,0
+1809,22-10-2024 16:00,22-10-2024 16:15,40,1,5,11,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,5,5,5,4,5,5,9,It low on alcohol level,Could have more alcohol in it or lower the price,1,,,,,1163,0
+1815,17-10-2024 19:50,17-10-2024 19:56,30,1,5,11,1,0,0,1,0,1,1,1,1,1,0,1,0,0,0,5,5,5,4,5,5,9,One thing I like about Michelob uktra lite is the calorie intake being so low.,There’s nothing I dislike,3,Bud lite,Miller lire,Natural ice,,1163,0
+1844,21-10-2024 23:07,21-10-2024 23:27,40,1,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,I like the brand that makes it and I like the amount of alcohol by volume in it,I don't dislike anything about it,3,Budweiser,Carona,Heineken,,1163,0
+1846,13-10-2024 08:16,13-10-2024 08:22,61,2,5,11,1,1,1,1,0,1,1,1,1,1,1,0,1,0,0,5,5,5,4,5,5,9,taste great,nothing to dislike,2,bush,miller,stella ataria,,1163,0
+1848,19-10-2024 02:43,19-10-2024 02:54,35,2,5,11,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,5,5,5,4,5,5,9,The branding is cool,nothing to dislike,1,,,,,1163,0
+1856,22-10-2024 11:22,22-10-2024 12:05,49,2,5,11,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,"I appreciate that Michelob ULTRA pure Gold is USDA certified organic, offering a refreshing taste while prioritizing natural ingredients.",I dislike that Michelob ULTRA Pure Gold has a relatively low flavor profile compared to more robust craft beers.,1,,,,,1163,0
+1871,22-10-2024 02:20,22-10-2024 02:33,58,2,5,11,1,0,0,0,0,1,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,I am not a fan of light beers but I do like the Michelob brand so I may try it one time.,That it's an ultra light beer. I think they're Way Too Thin.,1,,,,,1163,0
+1878,23-10-2024 04:51,23-10-2024 05:24,63,2,5,11,1,0,0,0,0,0,1,1,0,1,0,1,0,1,0,5,5,5,4,5,5,9,I don't care for light beers,I don't care for light beers,1,,,,,1163,0
+1880,21-10-2024 21:44,21-10-2024 22:07,59,1,5,11,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,5,5,5,4,5,5,9,That it is made by Michelob,nothing,2,Coors Light,Michelob Ultra,Busch Light,,1163,0
+1887,21-10-2024 20:33,21-10-2024 20:44,41,1,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,The best thing about,Good to know,3,Nik4,Nil,Bat,,1163,0
+1900,13-10-2024 05:30,13-10-2024 05:36,29,2,5,11,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,I like the flavor,Nothing,1,,,,,1163,0
+1906,21-10-2024 16:43,21-10-2024 16:53,53,2,5,11,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,The taste,Nothing,2,Michelob,,,,1163,0
+1949,17-10-2024 19:36,17-10-2024 19:46,35,2,5,11,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,5,5,5,4,5,5,9,"I love Michelob Ultra Pure Gold for its refreshing, smooth taste and impressive health-conscious features, including low calories, carbs, and gluten-free ingredients. Its eco-friendly brewing process and commitment to sustainability also align with my values, making it my top choice for a premium light lager. It is the best I have seen","Yeah 
+Michelob Ultra Pure Gold doesn't quite meet my expectations in terms of flavor.",3,Sprite,Bud,Baron,,1163,0
+1954,17-10-2024 06:15,17-10-2024 07:02,35,2,5,11,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,5,5,5,4,5,5,9,I like taste and design quality of the products and flavors,model and design  of the color of the drink.,1,,,,,1163,0
+1979,17-10-2024 20:02,17-10-2024 20:23,46,2,5,11,1,0,0,0,0,1,0,1,0,1,0,1,1,1,0,5,5,5,4,5,5,9,The fact that it's completely organic,That it's a light beer,1,,,,,1163,1
+1981,21-10-2024 20:22,21-10-2024 20:41,56,2,5,11,1,0,0,0,0,1,0,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,The ingredients and the description of the beer’s quality,Michelob Ultra was okay but not great; how will this new version improve on that?,1,,,,,1163,0
+1983,23-10-2024 05:33,23-10-2024 05:46,61,1,5,11,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,5,5,5,4,5,5,9,Use of organic materials,I typically don't enjoy light lagers or bs about gold,1,,,,,1163,0
+1984,17-10-2024 23:40,17-10-2024 23:52,55,1,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,I like the fact that it has alcohol,Nothing,1,,,,,1163,0
+1986,22-10-2024 19:37,22-10-2024 19:58,63,2,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,It’s organic and 85 calories,It’s fine the way it is,2,Corona,Budweiser,Coors,,1163,0
+2009,22-10-2024 05:40,22-10-2024 06:05,37,2,5,11,1,1,0,1,1,0,1,1,1,0,0,1,1,1,0,5,5,5,4,5,5,9,I love the amazing taste I love the product I love the design the style the price,I don't have any dislikes,3,Budweiser,Stella Artois,Corona Extra,,1163,0
+2018,21-10-2024 19:57,21-10-2024 20:57,40,1,5,11,1,0,0,0,0,1,1,0,1,1,0,0,0,1,0,5,5,5,4,5,5,9,It is light beer and i like light beers,There is nothing specific that i dislike,2,budweiser,heineken,corona,,1163,0
+2026,17-10-2024 15:43,17-10-2024 15:50,38,2,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,5,5,5,4,5,5,9,High quality,Nothing,3,Corona,Heinken,Almaza,,1163,0
+2037,23-10-2024 04:47,23-10-2024 05:02,59,2,5,11,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,It's a pretty bottle,I don't drink it,1,,,,,1163,0
+2052,21-10-2024 21:49,21-10-2024 21:57,27,1,5,11,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,5,5,5,4,5,5,9,The price,It's light,1,,,,,1163,0
+2066,13-10-2024 01:53,13-10-2024 02:07,26,1,5,11,1,0,0,0,0,1,0,1,1,1,0,1,0,0,0,5,5,5,4,5,5,9,The taste,Nothing,3,Budweiser,Lager beer,Heineken,,1163,0
+2072,22-10-2024 07:45,22-10-2024 08:16,63,2,5,11,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,5,5,5,4,5,5,9,The Michelob brand,The price,1,,,,,1163,0
+2076,16-10-2024 07:09,16-10-2024 07:16,34,1,5,11,1,1,0,1,0,1,1,1,0,1,1,1,0,1,0,5,5,5,4,5,5,9,I like another light beer option,A little pricey,2,bud light,miller light,corona light,,1163,0
+2085,18-10-2024 09:40,18-10-2024 10:16,39,1,5,11,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,The taste because taste is everything,Nothing,2,Miller Light,Bud light,Corona,,1163,0
+2093,16-10-2024 16:13,16-10-2024 16:27,45,1,5,11,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,5,5,5,4,5,5,9,It being a little better for me,The color with the label makes it kind of look like a bottle of pee,1,,,,,1163,1
+2094,22-10-2024 16:22,22-10-2024 16:29,43,1,5,11,1,0,0,1,0,1,0,0,0,1,0,0,1,0,0,5,5,5,4,5,5,9,the whole thing is damn good,none of it,2,good taste,smooth,easy to eat,,1163,1
+2098,11-10-2024 11:05,11-10-2024 12:00,30,1,5,11,1,1,0,0,0,1,1,1,1,1,1,1,0,1,1,5,5,5,4,5,5,9,"The taste is top notch,the packaging is epic, I love the branding","Nothing much, just there availability",2,Heineken,budweizer,Miller lite,,1163,0
+2099,17-10-2024 15:30,17-10-2024 15:36,39,1,5,11,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,5,5,5,4,5,5,9,Has the best ingredients and flavors,Has the best ingredients and flavors,2,modern,best,better,,1163,0
+2113,14-10-2024 00:39,14-10-2024 00:46,53,1,5,11,1,1,0,0,0,1,1,1,1,1,1,0,0,1,0,5,5,5,4,5,5,9,That’s it’s from michelob,Nothing to dislike,2,Budweiser,Miller,Bud light,,1163,0
+2125,16-10-2024 18:35,16-10-2024 18:53,37,2,5,11,1,1,0,1,0,1,1,1,1,1,0,1,1,0,0,5,5,5,4,5,5,9,I liked the price it's great,Nothing I disliked,1,,,,,1163,0
+2130,12-10-2024 16:14,12-10-2024 16:29,23,2,5,11,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,5,5,5,4,5,5,9,organic,nothing,2,modelo,corona,ultra,,1163,0
+2136,21-10-2024 17:44,21-10-2024 17:55,60,2,5,11,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,5,5,5,4,5,5,9,I'm not a fan of Ultra,Tastes watered down,1,,,,,1163,0
+2145,22-10-2024 20:46,22-10-2024 21:29,65,2,5,11,1,1,1,0,0,1,0,1,0,1,0,1,0,1,0,5,5,5,4,5,5,9,Low in calories and brewed with fine ingredients,Not a fan of the label,1,,,,,1163,0
+2158,18-10-2024 07:34,18-10-2024 07:45,58,1,5,11,1,0,0,0,0,1,0,1,0,1,0,1,0,0,0,5,5,5,4,5,5,9,American,Cost,1,,,,,1163,0
+2170,23-10-2024 00:38,23-10-2024 00:47,40,1,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,5,5,5,4,5,5,9,Thank you for the opportunity to interview with you and I look forward to your interview with you and I,Thank you for the opportunity to interview with you and I look forward to,3,Sadimaa,Aiakana,Aiajanjaai,,1163,0
+2172,22-10-2024 14:15,22-10-2024 14:27,36,1,5,11,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,5,5,5,4,5,5,9,I don't like anything about this beverage,I don't like the amount of alcohol it contains,1,,,,,1163,0
+2176,22-10-2024 05:34,22-10-2024 05:44,39,1,5,11,1,0,0,1,0,1,1,0,0,1,0,0,1,0,0,5,5,5,4,5,5,9,Smooth taste,Nothing,2,Corona,Heineken,Budweiser,,1163,0
+2177,22-10-2024 03:07,22-10-2024 04:03,41,2,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,I like that it does not have any artificial ingredients,I do not dislike anything about it,2,Corona Extra,Budweiser,Heineken,,1163,0
+2184,17-10-2024 19:31,17-10-2024 19:47,53,2,5,11,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,4,5,5,9,The taste,Nothing,2,Bud light,Bush,Budweiser,,1163,0
+2185,18-10-2024 00:24,18-10-2024 00:34,39,1,5,11,1,1,0,1,0,1,1,1,1,1,0,1,0,1,0,5,5,5,4,5,5,9,That it's organic,The design,2,Milwaukee best,Icehouse,Modelo,,1163,0
+2193,13-10-2024 15:28,13-10-2024 15:31,28,2,5,11,1,1,1,1,0,1,1,1,1,1,0,1,0,0,0,5,5,5,4,5,5,9,Everything is great,Nothing at all,2,Love it,Bud light,Corona,,1163,0
+2196,15-10-2024 01:05,15-10-2024 01:15,62,2,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Everything,Nothing,1,,,,,1163,0
+2205,11-10-2024 10:00,11-10-2024 10:12,28,1,5,11,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,I like the color,I don't think will taste good,1,,,,,1163,0
+2207,22-10-2024 06:56,22-10-2024 07:26,54,2,5,11,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,5,5,5,4,5,5,9,The color gold,I haven't  tried it so nothing .,1,,,,,1163,0
+2209,18-10-2024 05:34,18-10-2024 05:54,48,2,5,11,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,There's nothing I like about the product,I don't like this brand of beer,1,,,,,1163,1
+2223,14-10-2024 21:20,14-10-2024 21:33,33,2,5,11,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,5,5,5,4,5,5,9,I’ve never tasted it,I’ve never tried it,1,,,,,1163,0
+2234,23-10-2024 04:33,23-10-2024 05:09,63,1,5,11,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,5,5,5,4,5,5,9,Don’t feel that the USDA organic will sell the beer,I wouldn’t try it because of the brand of the Michelob beer,1,,,,,1163,0
+2278,12-10-2024 20:54,12-10-2024 21:12,35,1,5,11,1,0,0,0,0,1,0,1,1,0,0,0,1,1,0,5,5,5,4,5,5,9,has got no Hungover,nothing,3,Bud lights,natural lite,modelo,,1163,0
+2285,12-10-2024 17:36,12-10-2024 17:45,30,2,5,11,1,1,0,0,0,1,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,It’s beer for everyone no matter your race.,There is nothing I dislike about the product,1,,,,,1163,0
+2287,17-10-2024 06:12,17-10-2024 06:23,39,1,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,I like the color of the product.,I don't dislike anything about it.,3,Heineken,Budweiser,Guinness,,1163,0
+2295,13-10-2024 13:25,13-10-2024 13:41,46,1,5,11,1,1,0,1,0,0,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,I like the fact that it's a extra logger that means a little stronger than the other of Michelob ultra.,I do not know too much about the brand of Michelob Argo I would like to learn more.,1,,,,,1163,0
+2300,13-10-2024 17:52,13-10-2024 18:03,45,2,5,11,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,5,5,5,4,5,5,9,The labeling is good could be better,Too much like Corona,1,,,,,1163,1
+2315,13-10-2024 20:44,13-10-2024 20:55,30,1,5,11,1,1,1,0,0,1,1,1,1,1,0,1,0,1,1,5,5,5,4,5,5,9,the ingredient and taste,nothing to dislike,2,corana,dos eqstos,budlight,,1163,0
+2328,17-10-2024 01:02,17-10-2024 01:11,26,2,5,11,1,0,0,1,1,0,1,1,1,1,1,1,0,0,0,5,5,5,4,5,5,9,"It is unique, high quality and innovative",No comment,2,Bud light,Budweiser,Vodka,,1163,0
+2332,17-10-2024 01:59,17-10-2024 02:16,38,2,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,5,5,5,4,5,5,9,I like how appealing the pacakaging looks and the ingredients used in the making,I do not dislike anything at all,1,,,,,1163,0
+2359,16-10-2024 21:51,16-10-2024 22:34,50,2,5,11,1,1,0,0,0,0,0,1,0,1,0,0,1,1,0,5,5,5,4,5,5,9,Organic and no artificial colors,N/a,1,,,,,1163,0
+2388,21-10-2024 12:29,21-10-2024 13:06,36,1,5,11,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,it looks like it tastes good,nothing,1,,,,,1163,0
+2390,21-10-2024 09:07,21-10-2024 09:15,43,1,5,11,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,5,5,5,4,5,5,9,its organic,nothing,2,budweiser,miller,corona,,1163,1
+2391,16-10-2024 18:48,16-10-2024 19:16,41,1,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,5,5,5,4,5,5,9,the flavors,,3,Bud,bosch,corona,,1163,0
+2392,21-10-2024 14:11,21-10-2024 14:20,41,2,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,It is so tasty,I don't dislike any thing,3,Corona,Millers,Chivas,,1163,0
+2396,16-10-2024 20:17,16-10-2024 20:22,32,1,5,11,1,1,0,1,1,1,1,1,0,1,1,1,0,1,0,5,5,5,4,5,5,9,Like,Dislike,2,,No,N9,,1163,0
+2401,21-10-2024 20:37,21-10-2024 20:51,41,1,5,11,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,4,5,5,9,I don't like anything really about jt,It's not my kind of beer.,1,,,,,1163,0
+2408,22-10-2024 10:53,22-10-2024 10:59,39,2,5,11,1,1,0,1,0,1,1,1,1,0,1,1,0,0,0,5,5,5,4,5,5,9,the low calories and the look of it,nothing,2,bud light,corona,heiniken,,1163,0
+2410,21-10-2024 20:57,21-10-2024 21:11,62,2,5,11,1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,5,5,5,4,5,5,9,Nothing. I only drink Craft beer,Everything,2,,,,,1163,0
+2418,17-10-2024 07:49,17-10-2024 07:59,23,1,5,11,1,1,0,1,0,1,0,1,0,1,0,1,0,0,0,5,5,5,4,5,5,9,it'll get me drunk,expensive,2,corona,heineken,mike's,,1163,0
+2422,21-10-2024 14:36,21-10-2024 14:47,50,2,5,11,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,it looks good,nothing,2,i'm not sure,don't,know,,1163,1
+2452,17-10-2024 06:15,17-10-2024 06:23,51,2,5,11,1,0,0,1,0,0,1,1,1,1,0,1,0,1,0,5,5,5,4,5,5,9,The ingredients and the taste,nothing at all,2,Corona,Corona light,Corona gold,,1163,1
+2454,16-10-2024 02:17,16-10-2024 02:59,59,2,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,I like the taste of Michellob Ultra very much.,I dislike the price of Michelob Ultra Pure Gold.,1,,,,,1163,0
+2470,19-10-2024 07:28,19-10-2024 07:36,61,1,5,11,1,1,0,1,0,0,1,1,1,1,0,0,1,0,0,5,5,5,4,5,5,9,Brand and taste,Nothing,1,,,,,1163,0
+2490,21-10-2024 14:22,21-10-2024 15:19,28,2,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,It’s lighter,Nothing,3,Bud,Mikes hard,Wine,,1163,0
+2493,23-10-2024 12:15,23-10-2024 12:22,60,1,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,5,5,5,4,5,5,9,nothing,it is super light,1,,,,,1163,0
+2501,23-10-2024 12:39,23-10-2024 12:47,53,1,5,11,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,5,5,5,4,5,5,9,That is has less calories than a regular beer,The flavor profile,1,,,,,1163,0
+2518,23-10-2024 13:10,23-10-2024 13:28,60,2,5,11,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,The design of the bottle,It has a low alcohol content,2,Bud ice,Budwiser,Bud light,1,1163,0
+2532,23-10-2024 13:47,23-10-2024 13:54,64,1,5,11,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,5,5,5,4,5,5,9,nothing,too expensive,2,none,none,none,,1163,0
+2539,23-10-2024 13:55,23-10-2024 14:12,61,2,5,11,1,1,0,0,0,1,1,1,1,1,1,1,1,0,0,5,5,5,4,5,5,9,Low calories,Less taste,2,Miller Lite,Michelob Ultra,Corona Light,,1163,0
+2544,23-10-2024 14:09,23-10-2024 14:21,57,1,5,11,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,5,5,5,4,5,5,9,I would never buy it,Everything,1,,,,,1163,0
+2548,23-10-2024 14:23,23-10-2024 14:27,31,1,5,11,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,5,5,5,4,5,5,9,It looks greaT,Nothing it’s perfect,3,Heineken,Miller lite,Bud light,,1163,0
+2552,23-10-2024 14:22,23-10-2024 14:33,52,1,5,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,This beer is very smooth and light and good tasting,There is nothing I dislike about it,1,,,,,1163,0
+2553,23-10-2024 14:06,23-10-2024 14:35,35,1,5,11,1,1,0,0,0,1,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,The taste,Nothing,1,,,,,1163,0
+2568,23-10-2024 14:29,23-10-2024 14:42,59,1,5,11,1,1,0,1,0,1,0,1,1,1,0,1,0,1,1,5,5,5,4,5,5,9,smooth taste and good with food,not enough ad amoung the top beers,2,budwiser,hinekin,miler,,1163,0
+2575,23-10-2024 14:42,23-10-2024 14:47,38,1,5,11,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,5,5,5,4,5,5,9,Great taste,Price probably,1,,,,,1163,0
+2585,23-10-2024 14:44,23-10-2024 14:53,59,2,5,11,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Darker beer,,2,Michelob ultra,,,,1163,0
+2586,23-10-2024 14:46,23-10-2024 14:53,36,1,5,11,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,5,5,5,4,5,5,9,it has a third less alcohol,the calories that it has,1,,,,,1163,0
+2588,23-10-2024 14:47,23-10-2024 14:55,24,2,5,11,1,1,0,1,0,1,1,0,1,0,0,1,1,1,0,5,5,5,4,5,5,9,The first time,The only first,3,Bubt,Hehb,Hub,,1163,0
+2589,23-10-2024 14:39,23-10-2024 14:55,58,1,5,11,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,5,5,5,4,5,5,9,Brewed with homegrown ingredients and low carbs,Low alcohol content. Don’t have time or belly to drink enough to feel good,1,,,,,1163,0
+2592,23-10-2024 14:44,23-10-2024 14:59,27,1,5,11,1,1,0,0,0,0,1,1,1,0,0,1,1,1,0,5,5,5,4,5,5,9,,Everything,1,,,,,1163,0
+2595,23-10-2024 14:38,23-10-2024 15:00,64,1,5,11,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,5,5,5,4,5,5,9,"The description is perfectly clear, it's crisp and balanced beer, only 70 calories, golden, less alcohol, superior, and good as gold!  Yummy!!!","none really, but I enjoy can beer not glass.",1,,,,,1163,0
+2603,23-10-2024 14:48,23-10-2024 15:09,62,2,5,11,1,0,0,1,0,1,0,1,1,0,0,0,1,1,0,5,5,5,4,5,5,9,"Organic beer? Yes, please! I have not seen this product before, but live to try it.",Our local recycler does not recycle glass. Aluminum is a better choice.,2,Corona,Coors,Guinness,,1163,0
+2605,23-10-2024 14:56,23-10-2024 15:11,35,1,5,11,1,1,0,1,0,0,1,1,1,1,0,1,1,0,0,5,5,5,4,5,5,9,I like the flavor and taste,Nothing,1,,,,,1163,0
+2617,23-10-2024 15:14,23-10-2024 15:29,35,2,5,11,1,1,0,1,0,1,1,1,1,1,0,1,1,0,0,5,5,5,4,5,5,9,I like that it has a third less alcohol content to it,"The price. It's too expensive for the alcohol content it has. Around my house, I could get a 4pk of 16 oz cans of regular Heineken for $1 less, and the alcohol content is 5%.",2,Coors Light,Heineken,Budlight,,1163,0
+2618,23-10-2024 15:24,23-10-2024 15:30,33,1,5,11,1,1,0,1,1,0,1,1,0,0,1,1,0,1,1,5,5,5,4,5,5,9,It’s a very cool design which I like,It’s too bright,2,It’s fun,Cool,Hreat,,1163,0
+2628,23-10-2024 15:29,23-10-2024 15:39,61,1,5,11,1,1,0,0,0,1,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,That its Organic,"Nothing ,I liked the taste",2,Coors Lite,Modell,Budweiser,,1163,0
+2632,23-10-2024 15:12,23-10-2024 15:47,64,2,5,11,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,No comment,No comment,1,,,,,1163,0
+2633,23-10-2024 15:40,23-10-2024 15:47,28,2,5,11,1,0,0,0,0,0,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,Its pure.,Nothing,1,,,,,1163,0
+2638,23-10-2024 15:45,23-10-2024 15:55,58,1,5,11,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,There's nothing I like about it,Everything it's not my brand or taste,1,,,,,1163,0
+2640,23-10-2024 15:45,23-10-2024 15:57,55,2,5,11,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,Low carbs,,1,,,,,1163,0
+2656,23-10-2024 16:25,23-10-2024 16:41,25,1,5,11,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,5,5,5,4,5,5,9,i liked everything about it,there wasnt anything i didnt like,2,budlight,coors light,michelob pure gold,,1163,0
+2659,23-10-2024 17:02,23-10-2024 17:08,26,1,5,11,1,1,0,1,0,1,0,1,1,0,1,1,1,0,0,5,5,5,4,5,5,9,I love the color and the appeal. It is very refreshing and eye catching,It is a bit pricey,2,Coors Lite,Heineken,Modelo,,1163,0
+2663,23-10-2024 17:50,23-10-2024 18:05,32,2,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,"It's low on calories, and the price is very reasonable",There isn't anything that I dislike about this,3,Bud light,Corona light,Dox,,1163,0
+2673,23-10-2024 18:32,23-10-2024 18:51,62,1,5,11,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,there's nothing I like about it,I just don't drink Michelob,2,Budweiser,Bud Light,Bud Light,,1163,0
+2679,23-10-2024 18:54,23-10-2024 19:06,37,2,5,11,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,5,5,5,4,5,5,9,I like the price,Nothing I dislike,2,Miller lite,Budweiser,Heineken,,1163,0
+2680,23-10-2024 18:57,23-10-2024 19:07,64,1,5,11,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,5,5,5,4,5,5,9,Only 85 calories,nothing,1,,,,,1163,0
+2682,23-10-2024 18:53,23-10-2024 19:13,36,1,5,11,1,1,1,0,0,0,0,1,1,0,0,1,0,0,0,5,5,5,4,5,5,9,Don't like Michelob,Does not taste good to me,1,,,,,1163,0
+2700,23-10-2024 19:48,23-10-2024 20:18,65,1,5,11,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,5,5,5,4,5,5,9,label,nothing,1,,,,,1163,0
+2713,23-10-2024 23:06,23-10-2024 23:35,61,1,5,11,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,5,5,5,4,5,5,9,I would never drink this beer,Everything,1,,,,,1163,0
+2720,24-10-2024 06:57,24-10-2024 07:15,34,1,5,11,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,5,5,5,4,5,5,9,,,3,,,,,1163,0
+2723,24-10-2024 08:12,24-10-2024 08:23,63,2,5,11,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,,,3,One,,Bud light,,1163,0
+2729,24-10-2024 11:01,24-10-2024 11:05,29,2,5,11,1,1,0,1,1,1,1,1,0,1,0,1,1,0,0,5,5,5,4,5,5,9,I like the flavor profile and the ingredients and the bottle,I don’t dislike anything,1,,,,,1163,0
+2738,24-10-2024 11:20,24-10-2024 11:36,50,2,5,11,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,The calories are great.,Nothing,2,Yuenling,Bud light,Keystone,,1163,1
+2739,24-10-2024 11:28,24-10-2024 11:37,54,1,5,11,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0,5,5,5,4,5,5,9,IT looks good,Nothing to dislike,2,Corona,Budweiser,Modelo,,1163,0
+2740,24-10-2024 11:28,24-10-2024 11:38,59,2,5,11,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,5,5,5,4,5,5,9,There is t anything that I like. One of my grown daughters and some friends drink the ultra version but I only drink imported beer. I would buy it for company.,I don’t care for the taste of Michelin in general.,1,,,,,1163,0
+2746,24-10-2024 11:40,24-10-2024 11:52,38,2,5,11,1,1,1,1,0,1,1,1,0,0,1,1,1,1,0,5,5,5,4,5,5,9,The light beer.,Nothing I can see.,2,smooth,light,refreshing,,1163,0
+2751,24-10-2024 11:54,24-10-2024 12:02,35,1,5,11,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,5,5,5,4,5,5,9,it is a low calorie but high quality beer,"nothing, i like the brand",1,,,,,1163,0
+2762,24-10-2024 12:16,24-10-2024 12:22,49,2,5,11,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,5,5,5,4,5,5,9,It looks like it would taste good,There's nothing that I dislike about the product,1,,,,,1163,0
+2769,24-10-2024 12:23,24-10-2024 12:31,52,2,5,11,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,5,5,5,4,5,5,9,The ingredients and the presentation,Nothing,3,Corona,Michelob,Heineken,,1163,0
+2771,24-10-2024 12:11,24-10-2024 12:33,64,2,5,11,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,5,5,5,4,5,5,9,The carbs and calories. Already drink Michelob Ultra and this could be good .,I don't see or read anything that I dislike .,2,Michelob Ultra,modelo,Corona extra,,1163,0
+2782,24-10-2024 12:27,24-10-2024 12:39,57,2,5,11,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,5,5,5,4,5,5,9,Organic and light,Prefer craft beer,1,,,,,1163,0
+2797,24-10-2024 12:50,24-10-2024 12:54,38,2,5,11,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,5,5,5,4,5,5,9,I like the way it looks,Nothing,2,Mich ultra,Coors light,Barefoot,,1163,0
+2806,24-10-2024 12:53,24-10-2024 12:59,40,1,5,11,1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,5,5,5,4,5,5,9,Was so excited,Low quality product,3,Amazon,Hulu,Walmart,,1163,0
+2817,24-10-2024 12:43,24-10-2024 13:04,36,1,5,11,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,5,5,5,4,5,5,9,It's made with organic American ingredients,It is expensive for my budget.,1,,,,,1163,0
+2824,24-10-2024 12:52,24-10-2024 13:07,35,2,5,11,1,1,0,1,0,1,1,1,0,1,0,1,1,1,0,5,5,5,4,5,5,9,Not buy it,It's ultra light,1,,,,,1163,0
+2825,24-10-2024 13:00,24-10-2024 13:07,33,1,5,11,1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,5,5,5,4,5,5,9,Nothing,Nothing.,1,,,,,1163,0
+2840,24-10-2024 12:56,24-10-2024 13:13,26,2,5,11,1,0,0,0,0,1,0,1,0,0,1,1,1,0,0,5,5,5,4,5,5,9,I like that it’s only 85 calories,I like everything about it,2,Bud light,Coors,Stella,,1163,0
+2843,24-10-2024 13:08,24-10-2024 13:14,41,1,5,11,1,0,0,1,1,1,1,0,1,1,0,1,0,1,0,5,5,5,4,5,5,9,i like it,nothing,2,nothing,yes,no,,1163,0
+2851,24-10-2024 13:06,24-10-2024 13:16,55,1,5,11,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,5,5,5,4,5,5,9,Homegrown ingredients and low calories.,Nothing.,1,,,,,1163,0
+2858,24-10-2024 12:50,24-10-2024 13:19,56,2,5,11,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,5,5,5,4,5,5,9,Price is great and 85 calories is exceptional if it tastes good.,The price is likely to go up if it sells well.,2,Michelob ULTRA Light,Stella Artois,Yuengling Lager,,1163,0
+2860,24-10-2024 13:02,24-10-2024 13:20,50,1,5,11,1,1,0,0,0,1,0,1,1,1,0,1,1,0,0,5,5,5,4,5,5,9,very good,looks like pee,2,beer,soda,tea,,1163,0
+2867,24-10-2024 13:12,24-10-2024 13:22,32,1,5,11,1,0,0,1,0,1,1,1,1,0,1,0,1,1,0,5,5,5,4,5,5,9,It's cool,Nothing,3,,Cool,Cool,,1163,0
+2868,24-10-2024 13:11,24-10-2024 13:23,37,2,5,11,1,1,0,1,1,1,1,1,1,1,0,1,1,1,0,5,5,5,4,5,5,9,balanced beer with less alcohol and calories with pure and refreshing taste,"nothing, everything sounds great to me",2,Coors light,corona,bud light,,1163,0
+2882,24-10-2024 13:24,24-10-2024 13:29,44,1,5,11,1,1,0,1,0,1,0,1,1,1,0,1,1,0,0,5,5,5,4,5,5,9,ITS GOOD AND BEST,ITS BEST AND GOOD,3,BEST,LUNMO,AMLOP,,1163,0
+2892,24-10-2024 13:23,24-10-2024 13:34,33,2,5,11,1,1,0,0,0,0,1,0,0,1,0,1,0,0,0,5,5,5,4,5,5,9,I like that it uses homegrown ingredients for an authentic American taste and that it is only 70 calories.,There's nothing I dislike about the beer.,2,Michelob Ultra,Heineken,,,1163,0
+2897,24-10-2024 13:26,24-10-2024 13:35,40,2,5,11,1,1,0,0,0,1,1,1,1,0,0,1,1,0,0,5,5,5,4,5,5,9,the gold color is just unique and awesome,nothing about it is disliked,2,Heineken,Coors Light,Allagash White,,1163,0
+2900,24-10-2024 13:24,24-10-2024 13:35,54,2,5,11,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,I would try it just got curiosity. I don't think I have heard of a light lager before,Nothing yet,2,Natty Daddy,Natural Ice,Steel Reserve,,1163,0
+2924,24-10-2024 13:22,24-10-2024 13:42,64,2,5,11,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,I like it and will order it when out if offered. I like Michelob as a brand i know.,it is a little pricey.,1,,,,,1163,0
+2939,24-10-2024 13:41,24-10-2024 13:47,34,2,5,11,1,1,0,0,0,1,1,1,0,1,1,1,0,0,0,5,5,5,4,5,5,9,I like that it has only 85 calories and very low carbs,"I dislike the name ""pure gold""",2,Bud light,Corona,Miller light,,1163,0
+2952,24-10-2024 13:38,24-10-2024 13:49,38,1,5,11,1,1,0,0,0,1,1,1,1,1,0,1,1,0,0,5,5,5,4,5,5,9,this is very satisfied,this very good ULTRA,3,this very good,very nice,very like,,1163,0
+2961,24-10-2024 13:40,24-10-2024 13:50,58,1,5,11,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,5,5,5,4,5,5,9,"I like Michelob by default, so it extends to this variation and would try it..",Nothing generates a dislike of this variation,1,,,,,1163,0
+2962,24-10-2024 13:25,24-10-2024 13:50,34,1,5,11,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,5,5,5,4,5,5,9,I like the modern style,I like the modern style,2,Budweiser,Budweiser,Budweiser,,1163,0
+2989,24-10-2024 13:48,24-10-2024 13:57,27,2,5,11,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,5,5,5,4,5,5,9,,,1,,,,,1163,0
+2997,24-10-2024 13:50,24-10-2024 13:58,36,2,5,11,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,5,5,5,4,5,5,9,I like that it's a light beer,There's nothing I don't like,3,Heineken,Miller lite,Dosequis,,1163,0
+3006,24-10-2024 13:47,24-10-2024 14:00,49,1,5,11,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,5,5,5,4,5,5,9,Nothing about the product appeals to me,Just not my brand,1,,,,,1163,1
+3007,24-10-2024 13:49,24-10-2024 14:00,50,1,5,11,1,1,0,1,0,1,1,1,1,0,0,0,1,1,0,5,5,5,4,5,5,9,The design is ok,I can't stand the taste of this beer.  Any of its products have been terrible tasting.  This particular one literally looks like a bottle of urine. I will never drink it.,1,,,,,1163,0
+3033,24-10-2024 13:37,24-10-2024 14:04,61,1,5,11,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,5,5,4,5,5,9,American home grown ingredients,The name.  It's too long,2,Bud Light,Bud Select,Busch Light,,1163,0
+3036,24-10-2024 13:56,24-10-2024 14:06,31,1,5,11,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,5,5,5,4,5,5,9,Taste,Darker beer,2,Ultra,Bud lite,Yeuingling,,1163,0
+3038,24-10-2024 13:58,24-10-2024 14:07,33,1,5,11,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,5,5,5,4,5,5,9,It looks like a good tasting light beer I wouldn't feel bad about drinking more of. It's also a pretty good value.,It's not a brand my friends drink and I typically drink what they do.,3,Coors Light,Miller light,Bud light,,1163,0
+3046,24-10-2024 13:54,24-10-2024 14:08,30,2,5,11,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,5,5,5,4,5,5,9,"I wouldn’t want this, ever. It’s Terrible beer.",Everything. It’s not good.,1,,,,,1163,0
+3052,24-10-2024 13:56,24-10-2024 14:10,55,1,5,11,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,5,5,5,4,5,5,9,I've not really tried it,Neither cause I have not drank it beefore,2,Bud light,Coors,Busch,,1163,0
+3055,24-10-2024 13:43,24-10-2024 14:11,24,2,5,11,1,1,0,1,0,1,1,1,1,1,0,1,0,0,0,5,5,5,4,5,5,9,The brand and that it’s a an American made beer and it’s light I would wanna try it,"I didn’t dislike anything, the description could be more interesting",2,Cornona extra,Miller,,,1163,0
+3059,24-10-2024 14:00,24-10-2024 14:12,53,2,5,11,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,5,5,4,5,5,9,The amount carbs,Nothing,1,,,,,1163,0
+3082,24-10-2024 14:01,24-10-2024 14:19,53,1,5,11,1,1,0,1,0,1,1,1,1,1,0,1,1,0,0,5,5,5,4,5,5,9,Taste,Nothing,1,,,,,1163,0
+3083,24-10-2024 14:09,24-10-2024 14:19,57,2,5,11,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,5,5,5,4,5,5,9,I wouldn’t drink it- I’ve had the other and it’s very watered down,To watered down,1,,,,,1163,0
+3086,24-10-2024 14:09,24-10-2024 14:20,56,1,5,11,1,0,0,0,0,1,1,1,0,1,1,0,1,1,0,5,5,5,4,5,5,9,it has low carbs and calories,nothing,2,corona extra,none,none,,1163,0
+3089,24-10-2024 13:54,24-10-2024 14:21,56,2,5,11,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,5,4,5,5,9,"I love everything about Michelob ULTRA Pure Gold, and I cannot wait to try it. I already LOVE regular Michelob ULTRA, and I love the idea of an organic beer. So this works well for me.",I dislike absolutely nothing.,2,BUSCH,BUSCH LIGHT,MICHELOB ULTRA,,1163,0
+3090,24-10-2024 14:00,24-10-2024 14:21,24,2,5,11,1,1,0,1,0,1,1,0,1,1,1,1,0,0,0,5,5,5,4,5,5,9,I like the taste and the calorie intake,It's a little low quality,2,Bud light,Corona,Corona light,,1163,0
+3092,24-10-2024 14:10,24-10-2024 14:22,58,2,5,11,1,1,0,0,0,1,1,1,1,1,0,1,0,1,0,5,5,5,4,5,5,9,I like the fact that it's low calorie but I'm not a fan of the organic stuff organic to me normally taste funny,Once again I'm not a fan of organic products haven't had a lot of luck with him in the past,1,,,,,1163,0
+3093,24-10-2024 14:07,24-10-2024 14:22,63,2,5,11,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,5,5,5,4,5,5,9,I like that it’s American home grown ingredients,It’s one third less alcohol,1,,,,,1163,0
+3100,24-10-2024 14:11,24-10-2024 14:24,65,2,5,11,1,0,0,1,0,1,0,1,0,1,1,0,1,1,0,5,5,5,4,5,5,9,The price and the color of the beer. Uses homegrown ingredients to make it,It’s too light of a beer. I want to taste the ale not water,1,,,,,1163,0
+3106,24-10-2024 13:33,24-10-2024 14:25,34,1,5,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,9,12,none,1,,,,,1163,0
+3116,24-10-2024 14:21,24-10-2024 14:28,64,1,5,11,1,1,1,0,0,1,0,1,0,1,0,1,0,0,1,5,5,5,4,5,5,9,I like the organic part.,It's low alcohol content,2,Keystone,Be Ella,,,1163,0
+3118,24-10-2024 14:20,24-10-2024 14:29,44,2,5,11,1,1,0,0,0,0,0,1,1,1,1,1,0,1,0,5,5,5,4,5,5,9,It looks refreshing. It’s got a nice label.,I don’t know how it’s so different from the regular ultra and it’s expensive,1,,,,,1163,0
+3124,24-10-2024 13:59,24-10-2024 14:31,37,1,5,11,1,1,1,1,0,1,1,1,1,1,0,1,0,0,0,5,5,5,4,5,5,9,That it is homegrown and free of artificial flavors and colors,There is nothing that I dislike,3,Heiniken,Corona,Bud Light,,1163,0
+3148,24-10-2024 14:23,24-10-2024 14:52,44,1,5,11,1,1,0,1,0,1,1,1,0,1,0,1,1,1,0,5,5,5,4,5,5,9,I like the packaging. I like the shape of the bottle.,I don't see anything I disliked.,1,,,,,1163,0
+3149,24-10-2024 14:41,24-10-2024 14:52,39,2,5,11,1,1,0,1,0,0,1,1,1,1,1,1,1,1,0,5,5,5,4,5,5,9,Low cal options,Nothing exciting,1,,,,,1163,0
+3153,24-10-2024 14:36,24-10-2024 14:56,46,2,5,11,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,5,5,5,4,5,5,9,I like the bottle,Nothing,2,Bud light,Corona,Coors,,1163,1
+3154,24-10-2024 14:50,24-10-2024 14:59,55,1,5,11,1,0,0,0,0,1,1,1,1,1,0,1,1,1,0,5,5,5,4,5,5,9,Michelob Ultra is a good brand,Too high a price for a simple light beer,1,,,,,1163,0
+3155,24-10-2024 14:18,24-10-2024 15:03,56,2,5,11,1,1,0,0,0,1,1,1,0,0,0,1,1,1,0,5,5,5,4,5,5,9,I like that it's organic and I also like the flavor of Michelob beer,I usually drink a polar bear not so light,2,Budweiser,Corona,Michelob,,1163,0
+3213,24-10-2024 17:22,24-10-2024 17:33,56,2,5,11,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,5,5,5,4,5,5,9,Lower in carbs but the price is competitive,The alcohol content,1,,,,,1163,0
